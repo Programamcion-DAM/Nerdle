@@ -1,0 +1,10 @@
+.row{
+    display: flex;
+    gap:3px;
+    margin-bottom: 3px;
+    text-transform: uppercase;
+}
+
+.animatonBox{
+    border: 2px solid red;
+}

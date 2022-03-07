@@ -1,0 +1,23 @@
+.correct {
+    background-color: #4caf50;
+    border: #4caf50 solid 2px;
+    color: white;
+  }
+  
+.present {
+    background-color: rgb(235, 201, 8);
+    border: rgb(235, 201, 8) solid 2px;
+    color: white;
+  }
+  
+.absent {
+    background-color: rgb(120,120,120);
+    border: rgb(120,120,120) solid 2px;
+    color: white;
+}
+  .empty {
+    border: solid 2px rgb(220,220,220);
+  }
+  .edit {
+    border: solid 2px rgb(220,220,220);
+  }
